@@ -1,5 +1,5 @@
-#PROBLEM TWO
-#Sales Taxes
+# PROBLEM TWO
+# Sales Taxes
 
 There are a variety of items for sale at a store. When a customer purchases items, they receive a receipt. The receipt
 lists all of the items purchased, the sales price of each item (with taxes included), the total sales taxes for all items,
