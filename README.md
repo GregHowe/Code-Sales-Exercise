@@ -14,3 +14,13 @@ a taxable item costs $5.60, an exact 10% tax would be $0.56, and the final price
 should be $6.20.
 
 ![image](https://user-images.githubusercontent.com/38589908/171021534-ac6523ca-0e5a-4ee1-9caa-8649984a0b01.png)
+
+## Test1
+![image](https://user-images.githubusercontent.com/38589908/171035083-b301b5a5-619a-4680-a389-b9dce164aee9.png)
+
+## Test2
+![image](https://user-images.githubusercontent.com/38589908/171035109-496ee6d9-9c04-4452-8301-b72eb8cc7bbe.png)
+
+## Test3
+![image](https://user-images.githubusercontent.com/38589908/171035152-db128100-7195-4ab5-8732-651f25b881a3.png)
+
