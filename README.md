@@ -12,3 +12,5 @@ Write an application that takes input for shopping baskets and returns receipts 
 all taxes and totals correctly. When calculating the sales tax, round the value up to the nearest 5 cents. For example, if
 a taxable item costs $5.60, an exact 10% tax would be $0.56, and the final price after adding the rounded tax of $0.60
 should be $6.20.
+
+![image](https://user-images.githubusercontent.com/38589908/171021534-ac6523ca-0e5a-4ee1-9caa-8649984a0b01.png)
