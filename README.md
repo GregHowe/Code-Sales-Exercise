@@ -13,10 +13,8 @@ all taxes and totals correctly. When calculating the sales tax, round the value 
 a taxable item costs $5.60, an exact 10% tax would be $0.56, and the final price after adding the rounded tax of $0.60
 should be $6.20.
 
-![image](https://user-images.githubusercontent.com/38589908/171548163-e596a30e-57aa-427f-9822-90fc77900ba2.png)
-
 ## Test1
-![image](https://user-images.githubusercontent.com/38589908/171035083-b301b5a5-619a-4680-a389-b9dce164aee9.png)
+![image](https://user-images.githubusercontent.com/38589908/171548163-e596a30e-57aa-427f-9822-90fc77900ba2.png)
 
 ## Test2
 ![image](https://user-images.githubusercontent.com/38589908/171548388-d4af4a6f-907d-4a37-a016-6fb99acb562e.png)
