@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Sales-Exercise\\Sales-Exercise.csproj",
+      "projectUniqueName": "D:\\Me\\Personal\\Me\\number8\\2\\Code-Sales-Exercise\\Sales-Exercise.csproj",
       "projectName": "Sales-Exercise",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Sales-Exercise\\Sales-Exercise.csproj",
+      "projectPath": "D:\\Me\\Personal\\Me\\number8\\2\\Code-Sales-Exercise\\Sales-Exercise.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Sales-Exercise\\obj\\",
+      "outputPath": "D:\\Me\\Personal\\Me\\number8\\2\\Code-Sales-Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

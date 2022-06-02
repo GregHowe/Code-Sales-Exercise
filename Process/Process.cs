@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Sales_Exercise.Enumeration;
 
 namespace Sales_Exercise
 {
@@ -19,23 +20,19 @@ namespace Sales_Exercise
 
         void apply_Tax_BasicSales(List<Product> products)
         {
-            List<string> except10Percent = new List<string>() { "book", "chocolate", "pills" };
-
             foreach (var p in products)
             {
-                var except = false;
-
-                except = except10Percent.Where(x => p.Name.ToLower().Contains(x)).Any();
-
+                var except = Enumerations.CategoryListExcept().Contains(p.Category);
                 if (!except) p.PriceCalculado += Math.Round(p.Price * 0.1m, 2);
             }
         }
+
 
         void apply_Tax_Import(List<Product> products)
         {
             foreach (var p in products)
             {
-                p.PriceCalculado = (p.Name.Contains("Imported") ? p.PriceCalculado + Math.Round(p.Price * 0.05m, 1) : p.PriceCalculado);
+                p.PriceCalculado = p.Name.ToLower().Contains("imported") ? p.PriceCalculado + Math.Round(p.Price * 0.05m, 1) : p.PriceCalculado;
             }
         }
 
